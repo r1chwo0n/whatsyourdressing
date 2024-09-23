@@ -100,5 +100,3 @@ print(f"shoes: {shoes_type}")
 # ตรวจสอบค่าที่ระบบฟัซซี่คำนวณได้
 print(f"Upper Body Raw Output: {dressing_sim.output['upper_body']}")
 print(f"Lower Body Raw Output: {dressing_sim.output['lower_body']}")
-
-
